@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-image: url('./assets/BitBloom.png');
+}
+
+h1{
+  font-size: 100px;
+}
+
+button:hover{
+  background-color: white;
+  color: black;
+}
