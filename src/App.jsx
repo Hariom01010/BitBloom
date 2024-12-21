@@ -1,5 +1,4 @@
 import './App.css'
-import bg from "./assets/BitBloom.png"
 
 function App() {
 
